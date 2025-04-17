@@ -7,5 +7,5 @@ data:
   index.html: |
     <html>
       <head><title>Custom NGINX Page</title></head>
-      <body><h1>Hello from version 0.1.0!</h1></body>
+      <body><h1>Hello from version 0.2.0!</h1></body>
     </html>
