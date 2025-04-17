@@ -9,7 +9,7 @@ entries:
     name: my-webapp-helm
     type: application
     urls:
-    - https://github.com/DebjitChak/my-webapp-helm/docs/my-webapp-helm-0.2.0.tgz
+    - https://debjitchak.github.io/my-webapp-helm/my-webapp-helm-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
@@ -19,6 +19,6 @@ entries:
     name: my-webapp-helm
     type: application
     urls:
-    - https://github.com/DebjitChak/my-webapp-helm/docs/docs/my-webapp-helm-0.1.0.tgz
+    - https://debjitchak.github.io/my-webapp-helm/my-webapp-helm-0.1.0.tgz
     version: 0.1.0
 generated: "2025-04-17T14:47:20.455654814+05:30"
